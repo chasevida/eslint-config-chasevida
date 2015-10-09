@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-chasevida",
+  "version": "0.1.0",
+  "description": "Shareable ESLint config",
+  "author": "Mark C. <mark@chasevida.me>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chasevida/eslint-config-chasevida.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chasevida/eslint-config-chasevida/issues"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "peerDependencies": {
+    "eslint-plugin-chasevida": "0.x.x"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "chasevida",
+    "lint",
+    "eslint",
+    "eslintconfig"
+  ]
+}
