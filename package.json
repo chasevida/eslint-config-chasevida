@@ -14,9 +14,9 @@
   "license": "MIT",
   "scripts": {},
   "peerDependencies": {
-    "eslint-plugin-chasevida": "0.x.x"
+    "eslint-plugin-chasevida": "0.x.x",
+    "eslint-plugin-hapi": "~1.2.x"
   },
-  "devDependencies": {},
   "keywords": [
     "chasevida",
     "lint",
