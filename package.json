@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-chasevida",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Shareable ESLint config",
   "author": "Mark C. <mark@chasevida.me>",
   "main": "index.js",
