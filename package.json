@@ -12,7 +12,9 @@
     "url": "https://github.com/chasevida/eslint-config-chasevida/issues"
   },
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "docs": "rm -f README.md && node build"
+  },
   "dependencies": {
     "eslint-plugin-chasevida": "~0.1.2",
     "eslint-plugin-hapi": "~4.0.0"
